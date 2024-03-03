@@ -1,6 +1,6 @@
 import time
 import winsound
-import pyauido
+
 
 # Function to set an alarm
 def set_alarm():
